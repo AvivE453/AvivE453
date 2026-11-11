@@ -14,8 +14,9 @@ with a focus on system design, testing, and clean, maintainable code.
   eval harness for its LLM code reviews.
 - **[Custom Linux Shell](https://github.com/AvivE453/Custom-Unix-Shell)**:
   Unix-like shell in C with pipelines, I/O redirection, and background jobs.
-- **[rtbus](https://github.com/AvivE453/rtbus)**:
-  brokerless real-time pub/sub middleware in C++17 over shared memory and UDP multicast.
+- **[rtbus](https://github.com/AvivE453/rtbus)** *(in development)*:
+  brokerless real-time pub/sub middleware in C++17 with a zero-copy shared-memory transport
+  built on lock-free rings and futex wake-up.
 
 ## Tech
 
